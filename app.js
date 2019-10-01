@@ -13,7 +13,6 @@ let description = ('I\'m here to kick ass.'); {
 
 //Interests
 let myInterests = ('My Interests:');
-let bullet = ('* ');
 let interests = ['Video Games', 'Computers', 'Music', 'Printing']; {
     console.log(myInterests);
     console.log('* ' + interests[0]);
